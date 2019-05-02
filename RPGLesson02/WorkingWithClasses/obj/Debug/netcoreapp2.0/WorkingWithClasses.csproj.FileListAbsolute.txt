@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.deps.json
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.runtimeconfig.json
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.dll
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.pdb
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.csprojAssemblyReference.cache
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.dll
+C:\Users\mchittenden\source\repos\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.pdb
